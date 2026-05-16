@@ -19,7 +19,7 @@ Se implementaron **1 microservicios Spring Boot** que se comunican de forma así
 ```
 ## Captura del sistema
 
-![Consola consumidor](./assets/consumidor.png)
+![Consola consumidor](https://github.com/bjpsalmeron-jpg/RabbitMQ/blob/main/assets/consumidor.png)
 
 
 ![Sistema](assets/prod.png)
