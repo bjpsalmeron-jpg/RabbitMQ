@@ -19,7 +19,8 @@ Se implementaron **1 microservicios Spring Boot** que se comunican de forma así
 ```
 ## Captura del sistema
 
-![Sistema](assets/consumidor.png)
+![Consola consumidor](assets/consumidor.png)
+
 
 ![Sistema](assets/prod.png)
 
