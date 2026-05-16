@@ -17,17 +17,6 @@ Se implementaron **1 microservicios Spring Boot** que se comunican de forma así
 ## ¿Cómo funciona?
 
 ```
-## Captura del sistema
-
-![Consola consumidor](https://raw.githubusercontent.com/bjpsalmeron-jpg/RabbitMQ/main/assets/consumidor.png)
-
-
-![Sistema](assets/prod.png)
-
-![Sistema](assets/prueba.png)
-
-![Sistema](assets/rabi.png)
-```
 
 El productor **no espera respuesta** — simplemente envía el mensaje a la cola y continúa. El consumidor lo procesa de forma independiente cuando lo recibe.
 
