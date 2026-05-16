@@ -16,11 +16,9 @@ Se implementaron **1 microservicios Spring Boot** que se comunican de forma así
 
 ## ¿Cómo funciona?
 
-```
 
 El productor **no espera respuesta** — simplemente envía el mensaje a la cola y continúa. El consumidor lo procesa de forma independiente cuando lo recibe.
 
----
 
 ## ¿Por qué esto es comunicación asíncrona?
 
